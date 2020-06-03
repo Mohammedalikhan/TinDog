@@ -184,14 +184,15 @@ p{
   width: 15%;
   margin: 20px 10px 30px;
 }
-  .section-heading{
-    width: 400px;
+    .section-heading{
+    width: 120%;
     position: relative;
-    right: 50px;
+    right: 6%;
   }
   .card{
-    width: 350px;
+    width: 105%;
     position: relative;
-    right: 20px;
+    right: 2%;
   }
+
 }
